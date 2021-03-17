@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vultrao
+- 👀 I’m interested in C++, machine learning and a bunch of other stuff.
+- 🌱 I’m currently learning Rust !
+- 💞️ I’m looking to collaborate on redacting C++ conferences.
+- 📫 How to reach me : thomas.lourseyre@gmail.com
